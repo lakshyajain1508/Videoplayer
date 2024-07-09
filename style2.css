@@ -1,0 +1,69 @@
+.center_section{
+    height: 600px;
+    width: 1200px;
+    border: solid black 0px;
+    margin: auto;
+    margin-top: 50px;
+}
+.video_section
+{
+    height: 600px;
+    width: 800px;
+    border: solid black 0px;
+    float: left;
+
+}
+.list_section{
+    height: 585px;
+    width: 396px;
+    border: solid black 0px;
+    float: left;
+    padding-top: 15px;
+}
+.menu{
+    height: 100px;
+    width: 380px;
+    border: solid black 3px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: cornsilk;
+    border-radius: 20px;
+}
+.left_section{
+    height: 94px;
+    width: 120px;
+    border: solid black 0px;
+    float: left;
+    padding-top: 6px;
+    text-align: center;
+}
+.right_section{
+    height: 90px;
+    width: 256px;
+    border: solid black 0px;
+    float: left;
+    margin-top: -10px;
+    text-align: center;
+}
+h3{
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: -20px;
+    color: brown;
+    
+}
+p{
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 1px;
+       
+}
+.video{
+    height: 550px;
+    width: 750px;
+    border: solid black 5px;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+
