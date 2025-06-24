@@ -9,7 +9,7 @@
 {
     height: 600px;
     width: 800px;
-    border: solid black px;
+    border: solid black 0px;
     float: left;
 
 }
@@ -19,7 +19,6 @@
     border: solid black 0px;
     float: left;
     padding-top: 15px;
-    margin-top: 5px;
 }
 .menu{
     height: 100px;
@@ -28,7 +27,7 @@
     margin: auto;
     margin-top: 10px;
     background-color: cornsilk;
-    border-radius: 15px;
+    border-radius: 20px;
 }
 .left_section{
     height: 94px;
@@ -62,7 +61,7 @@ p{
 .video{
     height: 550px;
     width: 750px;
-    border: solid black 15px;
+    border: solid black 5px;
     margin: auto;
     margin-top: 25px;
     border-radius: 20px;
